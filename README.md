@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 # Travel
 =======
-<<<<<<< HEAD
 # Travel
 =======
-<<<<<<< HEAD
 # Travel
 =======
 # project
