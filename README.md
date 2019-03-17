@@ -31,5 +31,4 @@ npm run dev
 build for production with minification
 npm run build
 ```
-# License
-The code is available under the MIT license.
+
